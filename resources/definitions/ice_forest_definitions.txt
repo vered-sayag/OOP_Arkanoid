@@ -1,0 +1,11 @@
+# default values for blocks
+default height:25 width:50 hit_points:1 fill:image(block_images/ice_brok.png)block_images/ice.png
+
+# block definitions
+bdef symbol:g hit_points:3  fill-2:image(block_images/ice_broken.png) fill-3:image(block_images/ice.png)
+bdef symbol:b hit_points:2  fill-2:image(block_images/ice_broken.png)
+bdef symbol:y 
+
+
+# spacers definitions
+sdef symbol:- width:50

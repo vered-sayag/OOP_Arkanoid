@@ -1,0 +1,5 @@
+# block definitions
+bdef symbol:l width:50 height:25 hit_points:3 fill-3:image(block_images/envelope.png) fill-2:color(pink) fill-1:color(lightGray) stroke:color(black)
+
+# spacers definitions
+sdef symbol:- width:30
